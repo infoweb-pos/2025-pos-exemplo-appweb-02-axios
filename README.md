@@ -12,3 +12,9 @@
 2. Acessar a pasta (diretório do projeto) `cd https://github.com/infoweb-pos/2025-pos-exemplo-appweb-02-axios`
 3. Instalar as bibliotecas `npm i`
 4. Executar o projeto `npm run dev`
+
+## Links dos [releases](https://github.com/infoweb-pos/2025-pos-exemplo-appweb-02-axios/releases)
+
+- [Aplicação Web inicial para iniciar a codar o exemplo](https://github.com/infoweb-pos/2025-pos-exemplo-appweb-02-axios/archive/refs/tags/01-webapp-zerado.zip)
+- [Aplicação Web com o código final do exemplo](https://github.com/infoweb-pos/2025-pos-exemplo-appweb-02-axios/archive/refs/tags/02-webapp-finalizado.zip)
+- [Aplicação Web com o código final do exemplo componentizado](https://github.com/infoweb-pos/2025-pos-exemplo-appweb-02-axios/archive/refs/tags/03-webapp-componentizado.zip)
